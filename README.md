@@ -6,6 +6,7 @@
 ### Hosted Website **[here](http://34.131.171.34/#/)**
 <hr>
 
+
 ### About the App
 We are excited to introduce Agri Easy - an innovative app designed to address some of the challenges faced in agriculture. We understand that farmers face unpredictable weather patterns, pests and diseases, and struggle with inadequate access to accurate information, resulting in significant losses of resources and yield.
 
