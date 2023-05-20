@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "Genji",
+    "category": "Fertilizer",
+    "imageUrl": "assets/images/nitro.jpg",
+    "type": "Nitrogen",
+    "desc": "Urea fertilizer is cost-effective, easy to store, and supplies immediate nitrogen for healthy plant growth. It can be mixed with other fertilizers or applied on its own, making it suitable for all types of plants, soil, and crops. Urea is also an effective acidifier for plants that prefer acidic soil.",
+    "l": "https://www.amazon.in/Potassium-Phosphorus-Fertilizer-Erwon-Fungicide/dp/B097GTP9TY/ref=sr_1_5?keywords=nitrogen%2Bfertilizer%2Bfor%2Bplants&sr=8-5&th=1"
+  },
+  {
+    "id": 1,
+    "name": "Hanzo",
+    "category": "Fertilizer",
+    "type": "Phosphorus",
+    "imageUrl": "assets/images/p.png",
+    "desc": "Phosphorus is an essential element for plant growth as it plays a key role in metabolism, photosynthesis, nitrogen fixation, carbon metabolism, and energy transfer. It is also vital for seed formation, root growth, and flowering. Rock phosphate, a natural source of phosphorus, provides all these benefits to plants.",
+    "l": "https://www.amazon.in/SAPRETAILER-Phosphate-Essential-Fertilizer-Flowering/dp/B08NGX8DH8/ref=sr_1_6?keywords=phosphorus%2Bfertilizer%2Bfor%2Bplants&sr=8-6&th=1"
+  },
+  {
+    "id": 2,
+    "name": "Sigma",
+    "category": "Fertilizer",
+    "imageUrl": "assets/images/c.png",
+    "type": "Calcium",
+    "desc": "Calcium fertilizer is a slow-release fertilizer that contains essential nutrients such as phosphorus, nitrogen, and proteins. It prevents nutrient deficiency, which can lead to premature bud drop and abnormal leaf colors. It also promotes the healthy development of fruits and flowers.",
+    "l": "https://www.amazon.in/TrustBasket-Organic-Gardening-Phosphorus-Fertilizer/dp/B09PHP825N/ref=sr_1_7?keywords=calcium%2Bfertilizer%2Bfor%2Bplants&sr=8-7&th=1"
+  },
+  {
+    "id": 3,
+    "name": "Junk Rat",
+    "category": "Pesticide",
+    "imageUrl": "assets/images/i.png",
+    "type": "Insecticide",
+    "desc": "Jump is an innovative insecticide formulation that uses fluid bed technology for ease in handling, measuring, and dosing. It enhances plant growth and provides longer protection against pests like stem borer, leaf folder, and thrips. It is targeted towards crops such as lentils, rice, grapes, and vegetables, and can be administered with 1-2 sprays depending on the severity of pest incidence.",
+    "l": "https://www.amazon.in/Bayer-Jump-Fipronil-80-Insecticide/dp/B08S59ZZMT/ref=sr_1_41?keywords=insecticide+for+plants&sr=8-41"
+  },
+  {
+    "id": 4,
+    "name": "Kiriko",
+    "category": "Pesticide",
+    "imageUrl": "assets/images/f.png",
+    "type": "Fungicide",
+    "desc": "Trichoderma viride is an organic biological agent that improves soil health and plant immunity, and increases crop yield. It controls soil fungus diseases by producing antibiotics, nutrients, and inducing plant resistance. It can be applied directly to individual plants or through seed treatment, root dipping, or potting soil mix. Its use promotes root growth, nutrient absorption, and effective use of fertilizers.",
+    "l": "https://www.amazon.in/OrganicDews-Trichoderma-Viride-Powder-Fungicide/dp/B08VS11TCZ/ref=sr_1_5?keywords=fungicide%2Bfor%2Bplants&sr=8-5&th=1"
+  },
+  {
+    "id": 5,
+    "name": "RoadHog",
+    "category": "Pesticide",
+    "imageUrl": "assets/images/larvi.jpg",
+    "type": "Larvicide",
+    "desc": "Katyayani Larvicide is a biological pesticide containing Bacillus thuringiensis kurstaki, effective against various caterpillars that damage crops like cotton, tomato, paddy, and soybean. The protein produced by this bacterium blocks the insect's digestive system, leading to its death. It is not harmful to natural enemies or pollinators like honeybees.",
+    "l": "https://amzn.eu/d/4nuQZAR"
+  }
+]
